@@ -1,4 +1,4 @@
-# Hi, I'm Oxyz 👋
+# Hi, I'm 0xBZ 👋
 
 Games & Crypto Enthusiast. Mostly tinkering with testnets, faucets, and AI agents.
 
